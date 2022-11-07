@@ -18,6 +18,8 @@ Here is the project developed with React: <https://github.com/jhordyess/course-f
 
 ## License
 
-© 2022 Jhordyess. Under the MIT license.
+© 2022 [Jhordyess](https://github.com/jhordyess). Under the [MIT](https://choosealicense.com/licenses/mit/) license.
 
-Made with 💪 by [Jhordyess](https:/www.jhordyess.com)
+---
+
+Made with 💪 by [Jhordyess](https://www.jhordyess.com/)
