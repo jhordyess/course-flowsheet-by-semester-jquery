@@ -40,3 +40,8 @@ td.td_postreq {
   background-color: rgb(070, 197, 221);
   border: 1px solid rgb(070, 197, 221);
 }
+
+footer {
+  margin: 12px auto;
+  text-align: center;
+}
