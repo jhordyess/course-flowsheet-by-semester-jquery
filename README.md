@@ -4,9 +4,9 @@ This project represents one of my first steps in programming, approximately in 
 
 It's possible to create a dynamic course flowsheet by semester, defining the semester, courses names, and courses prerequisites(post requisites will be found automatically).
 
-All semesters and courses are grouped by HTML table and created with Jquery.
+All semesters and courses are grouped by HTML table and created with jQuery.
 
-Using mouseover dynamically, the prerequisites and post requisites change of style, also with Jquery.
+Using mouseover dynamically, the prerequisites and post requisites change of style, also with jQuery.
 
 To test your own course flowsheet, just modify the semesters.js file.
 
