@@ -12,6 +12,10 @@ To test your own course flowsheet, just modify the semesters.js file.
 
 This is the result using some example: <https://jhordyess.github.io/course-flowsheet-by-semester-jquery>
 
+## Screenshot
+
+![Home](https://res.cloudinary.com/jhordyess/image/upload/v1679608993/course-flowsheet-by-semester/jquery.png)
+
 ## Update 2022
 
 Here is the project developed with React: <https://github.com/jhordyess/course-flowsheet-by-semester>, and online: <https://jhordyess.github.io/course-flowsheet-by-semester/>
