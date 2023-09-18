@@ -52,3 +52,13 @@ footer {
   margin: 12px auto;
   text-align: center;
 }
+
+footer a {
+  color: rgb(000, 138, 113);
+  text-decoration: none;
+}
+
+footer a:hover {
+  color: rgb(070, 197, 221);
+  text-decoration: underline;
+}
