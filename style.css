@@ -1,8 +1,9 @@
-@import url("https://fonts.googleapis.com/css2?family=Archivo:wght@400;700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@400;700&display=swap');
 
 body {
-  font-family: "Archivo", sans-serif;
+  font-family: 'Archivo', sans-serif;
 }
+
 td {
   color: black;
   background-color: white;
@@ -10,31 +11,37 @@ td {
   height: 30px;
   cursor: pointer;
 }
+
 th {
   background-color: darkslategrey;
   height: 35px;
   color: white;
 }
+
 table {
   /*border-collapse:collapse;*/
   text-align: center;
   border-spacing: 5px;
   width: 100%;
 }
+
 td.td_empty {
   border: 0px;
   cursor: default;
 }
+
 td.td_hover {
   color: white;
   background-color: rgb(015, 140, 195);
   border: 1px solid rgb(015, 140, 195);
 }
+
 td.td_prereq {
   color: white;
   background-color: rgb(000, 138, 113);
   border: 1px solid rgb(000, 138, 113);
 }
+
 td.td_postreq {
   color: white;
   background-color: rgb(070, 197, 221);
